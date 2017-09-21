@@ -7,7 +7,7 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <link href="bootstrap/css/style.css" rel="stylesheet">
-        <link href="css/barra-lateral.css" rel="stylesheet">
+        
         <title>PC EXPERIENCE</title>
     </head>
 
@@ -20,8 +20,8 @@
                 </div>
                 <ul class="nav navbar-nav" >
                     <li><a href="frmListarProdutos.php">PRODUTOS</a></li>
-                    <li><a href="manterClientes.php">CLIENTES</a></li>
-                    <li><a href="manterPedidos.php">PEDIDOS</a></li>
+                    <li><a href="frmListarClientes.php">CLIENTES</a></li>
+                    <li><a href="frmListarPedidos.php">PEDIDOS</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right" >
                     <li><a href="logOut.php"><span class="glyphicon glyphicon-log-out" ></span>LOGOUT</a></li>
