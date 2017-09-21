@@ -41,6 +41,7 @@
                     <th>Excluir</th>
                 </tr>
                 <?php while($row = mysqli_fetch_assoc($rs)){ ?>
+                
                     <tr>
                         <td><?php echo $row['id'] ?></td>
                         <td><?php echo $row['descricao'] ?></td>
